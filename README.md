@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alirafiei75
 - 👀 I’m interested in programming and its challenges
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning python and django web framework
+- 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me: a.rafiee1375@yahoo.com
 
 <!---
