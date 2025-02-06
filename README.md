@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alirafiei75
 - 👀 I’m interested in programming and its challenges
-- 🌱 I’m currently learning python and django web framework
-- 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me: a.rafiee1375@yahoo.com
+- 🌱 I’m a backend developer
+- 📫 How to reach me: a.rafiei1375@gmail.com
 
 <!---
 alirafiei75/alirafiei75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
